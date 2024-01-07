@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: "Pr\xE9noms4"
+  m_EditorClassIdentifier: 
+  timeInSeconds: 240
+  Columns: 12
+  Rows: 12
+  Board:
+  - Size: 12
+    Row:
+    - J
+    - E
+    - A
+    - N
+    - G
+    - C
+    - C
+    - N
+    - T
+    - S
+    - I
+    - S
+  - Size: 12
+    Row:
+    - E
+    - J
+    - J
+    - J
+    - H
+    - F
+    - V
+    - Y
+    - V
+    - C
+    - E
+    - R
+  - Size: 12
+    Row:
+    - N
+    - Z
+    - E
+    - E
+    - I
+    - H
+    - G
+    - H
+    - S
+    - B
+    - A
+    - G
+  - Size: 12
+    Row:
+    - N
+    - X
+    - V
+    - N
+    - M
+    - S
+    - E
+    - O
+    - A
+    - L
+    - G
+    - H
+  - Size: 12
+    Row:
+    - I
+    - W
+    - F
+    - I
+    - I
+    - B
+    - U
+    - S
+    - Y
+    - E
+    - F
+    - P
+  - Size: 12
+    Row:
+    - F
+    - A
+    - K
+    - L
+    - I
+    - B
+    - T
+    - Z
+    - E
+    - C
+    - S
+    - R
+  - Size: 12
+    Row:
+    - E
+    - P
+    - O
+    - E
+    - O
+    - I
+    - U
+    - H
+    - L
+    - L
+    - B
+    - C
+  - Size: 12
+    Row:
+    - R
+    - U
+    - F
+    - G
+    - E
+    - R
+    - K
+    - P
+    - B
+    - E
+    - Z
+    - K
+  - Size: 12
+    Row:
+    - I
+    - R
+    - V
+    - N
+    - U
+    - G
+    - A
+    - L
+    - N
+    - M
+    - Z
+    - X
+  - Size: 12
+    Row:
+    - T
+    - D
+    - H
+    - A
+    - O
+    - Y
+    - Z
+    - F
+    - M
+    - E
+    - A
+    - R
+  - Size: 12
+    Row:
+    - V
+    - D
+    - S
+    - C
+    - A
+    - Q
+    - P
+    - O
+    - Z
+    - X
+    - G
+    - S
+  - Size: 12
+    Row:
+    - E
+    - A
+    - D
+    - A
+    - K
+    - L
+    - V
+    - I
+    - C
+    - T
+    - O
+    - R
+  SearchWords:
+  - Found: 0
+    Word: VICTOR
+  - Found: 0
+    Word: CLEMENT
+  - Found: 0
+    Word: SEBASTIEN
+  - Found: 0
+    Word: FLORA
+  - Found: 0
+    Word: JENNIFER
+  - Found: 0
+    Word: ANGELINE
+  - Found: 0
+    Word: LOU
+  - Found: 0
+    Word: JEAN

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Aliments4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 270
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - H
+    - A
+    - Z
+    - G
+    - G
+    - S
+    - Y
+    - T
+  - Size: 8
+    Row:
+    - Q
+    - C
+    - C
+    - B
+    - A
+    - T
+    - I
+    - O
+  - Size: 8
+    Row:
+    - L
+    - T
+    - I
+    - U
+    - Y
+    - E
+    - I
+    - M
+  - Size: 8
+    Row:
+    - R
+    - U
+    - M
+    - W
+    - O
+    - A
+    - B
+    - A
+  - Size: 8
+    Row:
+    - R
+    - O
+    - X
+    - T
+    - D
+    - K
+    - G
+    - T
+  - Size: 8
+    Row:
+    - N
+    - F
+    - B
+    - J
+    - L
+    - N
+    - W
+    - E
+  - Size: 8
+    Row:
+    - T
+    - O
+    - C
+    - I
+    - T
+    - B
+    - A
+    - T
+  - Size: 8
+    Row:
+    - Z
+    - B
+    - L
+    - P
+    - W
+    - P
+    - G
+    - S
+  SearchWords:
+  - Found: 0
+    Word: STEAK
+  - Found: 0
+    Word: SAUMON
+  - Found: 0
+    Word: ABRICOT
+  - Found: 0
+    Word: TOMATE
+  - Found: 0
+    Word: SANDWICH

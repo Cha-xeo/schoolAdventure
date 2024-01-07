@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Villes1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 5
+  Rows: 5
+  Board:
+  - Size: 5
+    Row:
+    - Z
+    - P
+    - J
+    - R
+    - Y
+  - Size: 5
+    Row:
+    - H
+    - A
+    - W
+    - F
+    - B
+  - Size: 5
+    Row:
+    - Q
+    - R
+    - N
+    - J
+    - O
+  - Size: 5
+    Row:
+    - T
+    - I
+    - B
+    - W
+    - S
+  - Size: 5
+    Row:
+    - O
+    - S
+    - L
+    - O
+    - N
+  SearchWords:
+  - Found: 0
+    Word: PARIS
+  - Found: 0
+    Word: OSLO

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Villes5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 240
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - P
+    - R
+    - S
+    - E
+    - L
+    - Y
+    - D
+    - L
+    - J
+    - W
+  - Size: 10
+    Row:
+    - R
+    - I
+    - T
+    - E
+    - M
+    - O
+    - W
+    - I
+    - O
+    - O
+  - Size: 10
+    Row:
+    - U
+    - B
+    - R
+    - S
+    - V
+    - Q
+    - K
+    - V
+    - W
+    - H
+  - Size: 10
+    Row:
+    - O
+    - D
+    - A
+    - W
+    - G
+    - V
+    - P
+    - E
+    - X
+    - U
+  - Size: 10
+    Row:
+    - P
+    - J
+    - S
+    - C
+    - E
+    - C
+    - E
+    - R
+    - G
+    - K
+  - Size: 10
+    Row:
+    - A
+    - J
+    - B
+    - E
+    - F
+    - P
+    - X
+    - P
+    - Z
+    - Q
+  - Size: 10
+    Row:
+    - G
+    - M
+    - O
+    - S
+    - C
+    - O
+    - U
+    - O
+    - R
+    - B
+  - Size: 10
+    Row:
+    - N
+    - K
+    - U
+    - Z
+    - S
+    - Y
+    - X
+    - O
+    - Z
+    - N
+  - Size: 10
+    Row:
+    - I
+    - C
+    - R
+    - U
+    - C
+    - S
+    - Z
+    - L
+    - G
+    - X
+  - Size: 10
+    Row:
+    - S
+    - O
+    - G
+    - A
+    - C
+    - I
+    - H
+    - C
+    - I
+    - A
+  SearchWords:
+  - Found: 0
+    Word: SINGAPOUR
+  - Found: 0
+    Word: STRASBOURG
+  - Found: 0
+    Word: GRECE
+  - Found: 0
+    Word: MOSCOU
+  - Found: 0
+    Word: CHICAGO
+  - Found: 0
+    Word: LIVERPOOL

@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Animaux2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 210
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - L
+    - S
+    - M
+    - L
+    - A
+    - V
+    - E
+    - H
+    - C
+  - Size: 10
+    Row:
+    - E
+    - T
+    - E
+    - Z
+    - R
+    - Z
+    - R
+    - S
+    - Y
+    - I
+  - Size: 10
+    Row:
+    - Q
+    - R
+    - P
+    - C
+    - H
+    - R
+    - Z
+    - B
+    - X
+    - U
+  - Size: 10
+    Row:
+    - U
+    - H
+    - S
+    - I
+    - N
+    - G
+    - E
+    - N
+    - L
+    - C
+  - Size: 10
+    Row:
+    - I
+    - O
+    - W
+    - T
+    - W
+    - B
+    - B
+    - W
+    - D
+    - Y
+  - Size: 10
+    Row:
+    - N
+    - O
+    - C
+    - L
+    - E
+    - L
+    - R
+    - B
+    - T
+    - G
+  - Size: 10
+    Row:
+    - U
+    - O
+    - H
+    - M
+    - N
+    - Y
+    - E
+    - O
+    - L
+    - B
+  - Size: 10
+    Row:
+    - D
+    - K
+    - V
+    - D
+    - N
+    - O
+    - J
+    - T
+    - E
+    - K
+  - Size: 10
+    Row:
+    - P
+    - L
+    - B
+    - L
+    - I
+    - S
+    - R
+    - A
+    - J
+    - W
+  - Size: 10
+    Row:
+    - B
+    - D
+    - L
+    - L
+    - S
+    - Y
+    - B
+    - Y
+    - C
+    - G
+  SearchWords:
+  - Found: 0
+    Word: ZEBRE
+  - Found: 0
+    Word: CHEVAL
+  - Found: 0
+    Word: SINGE
+  - Found: 0
+    Word: REQUIN

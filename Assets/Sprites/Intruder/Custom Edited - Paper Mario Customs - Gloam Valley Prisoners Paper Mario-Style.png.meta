@@ -1,0 +1,4200 @@
+fileFormatVersion: 2
+guid: 06266167be6fb614f8cfb5399516bb5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1917569316645582887
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_0
+  - first:
+      213: -2771954107348443169
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_1
+  - first:
+      213: 249238823387173202
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_2
+  - first:
+      213: 785140547000254473
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_3
+  - first:
+      213: 2853846381427816920
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_4
+  - first:
+      213: -7330469905558486464
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_5
+  - first:
+      213: -5901692077450285549
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_6
+  - first:
+      213: -8740075427640029362
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_7
+  - first:
+      213: -7285827729635891430
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_8
+  - first:
+      213: 1866965377381120772
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_9
+  - first:
+      213: -2201349353611429112
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_10
+  - first:
+      213: 930946422599740704
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_11
+  - first:
+      213: -4270992445915273810
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_12
+  - first:
+      213: -1377517272967011990
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_13
+  - first:
+      213: 7733210796993644678
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_14
+  - first:
+      213: -1100423015534249712
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_15
+  - first:
+      213: 1408091072589840317
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_16
+  - first:
+      213: 5189075240544931183
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_17
+  - first:
+      213: 1495521435562455934
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_18
+  - first:
+      213: -5659526823573261008
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_19
+  - first:
+      213: 9069180908034773634
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_20
+  - first:
+      213: -4843372388975345126
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_21
+  - first:
+      213: 3739953020294190408
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_22
+  - first:
+      213: -4155606090658242945
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_23
+  - first:
+      213: 6202801692692840336
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_24
+  - first:
+      213: -6265141076280583688
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_25
+  - first:
+      213: 6011607851443290164
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_26
+  - first:
+      213: 1047079633428133914
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_27
+  - first:
+      213: -7431764326070644837
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_28
+  - first:
+      213: -3684009920254547182
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_29
+  - first:
+      213: 5450536424640586506
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_30
+  - first:
+      213: -8990812797348438178
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_31
+  - first:
+      213: 8167982111664439141
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_32
+  - first:
+      213: 3055511455598377960
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_33
+  - first:
+      213: -2994975453168209423
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_34
+  - first:
+      213: 3444194196334813992
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_35
+  - first:
+      213: 4143863609169780291
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_36
+  - first:
+      213: -1859219677536829729
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_37
+  - first:
+      213: 288102368879295836
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_38
+  - first:
+      213: -8867782955415922109
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_39
+  - first:
+      213: 4870662434588301715
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_40
+  - first:
+      213: 4170781391995949978
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_41
+  - first:
+      213: -1656943644593664471
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_42
+  - first:
+      213: 7262969180790695160
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_43
+  - first:
+      213: -8260479013001221463
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_44
+  - first:
+      213: -1305848676143220307
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_45
+  - first:
+      213: 2982180762757452603
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_46
+  - first:
+      213: 6998495162150864268
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_47
+  - first:
+      213: -2744504520656580990
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_48
+  - first:
+      213: -6863925316656175901
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_49
+  - first:
+      213: -7108925200546896047
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_50
+  - first:
+      213: 7495930099176581739
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_51
+  - first:
+      213: 4844285793011413637
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_52
+  - first:
+      213: 2976295346932100368
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_53
+  - first:
+      213: 664161670891685202
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_54
+  - first:
+      213: 7356366659437898085
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_55
+  - first:
+      213: 1951851349452861580
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_56
+  - first:
+      213: -6593430489973046554
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_57
+  - first:
+      213: 1316876403804521579
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_58
+  - first:
+      213: -571629404701860612
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_59
+  - first:
+      213: 968234085614007947
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_60
+  - first:
+      213: 7745274854713705725
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_61
+  - first:
+      213: -4189637839385841919
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_62
+  - first:
+      213: 4229059950636741641
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_63
+  - first:
+      213: -8970639308849907543
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_64
+  - first:
+      213: 8234465743043694816
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_65
+  - first:
+      213: -6267317508388959122
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_66
+  - first:
+      213: -7355626360805026406
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_67
+  - first:
+      213: -7758280643075553279
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_68
+  - first:
+      213: 7543271200256259430
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_69
+  - first:
+      213: 3418739643378829753
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_70
+  - first:
+      213: -6176371627084401557
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_71
+  - first:
+      213: -1934980026067190251
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_72
+  - first:
+      213: -1610432475924704994
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_73
+  - first:
+      213: -2384409708119622753
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_74
+  - first:
+      213: 6172232572311798875
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_75
+  - first:
+      213: -630886241291470321
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_76
+  - first:
+      213: 2734685616009987463
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_77
+  - first:
+      213: 5420175550245742571
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_78
+  - first:
+      213: 5567847797470929349
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_79
+  - first:
+      213: 3701340193282101351
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_80
+  - first:
+      213: 5898718924958418366
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_81
+  - first:
+      213: -3943571125229292346
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_82
+  - first:
+      213: -64894311030308656
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_83
+  - first:
+      213: 6768846415566055157
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_84
+  - first:
+      213: -5372230673545504984
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_85
+  - first:
+      213: 4175523308001459866
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_86
+  - first:
+      213: -2040851910012986648
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_87
+  - first:
+      213: 4038948461062572778
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_88
+  - first:
+      213: -92435546062380
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_89
+  - first:
+      213: -7092764188915393055
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_90
+  - first:
+      213: -9093824145241914374
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_91
+  - first:
+      213: -824771084139945146
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_92
+  - first:
+      213: -8503374081060092419
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_93
+  - first:
+      213: -2259359600121448403
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_94
+  - first:
+      213: -4551459805610357973
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_95
+  - first:
+      213: 8351695757218359314
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_96
+  - first:
+      213: -7540454285771202261
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_97
+  - first:
+      213: -4148728293816909473
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_98
+  - first:
+      213: 8490428442475342126
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_99
+  - first:
+      213: 181570051265993078
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_100
+  - first:
+      213: -4629018469981383644
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_101
+  - first:
+      213: 1225988553914593532
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_102
+  - first:
+      213: 8060772182695299631
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_103
+  - first:
+      213: 3033620341026113249
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_104
+  - first:
+      213: 4861407508995324323
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_105
+  - first:
+      213: 1734220399038789731
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_106
+  - first:
+      213: 1359985924944866867
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_107
+  - first:
+      213: -7527103667495435700
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_108
+  - first:
+      213: -6738464264742113882
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_109
+  - first:
+      213: -1341480152119488601
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_110
+  - first:
+      213: 6102556245944857126
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_111
+  - first:
+      213: -6643390263601419874
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_112
+  - first:
+      213: -8828329676443212975
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_113
+  - first:
+      213: -1793483796422317863
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_114
+  - first:
+      213: 5897859641325142093
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_115
+  - first:
+      213: 5025091929032482931
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_116
+  - first:
+      213: 260094816960213049
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_117
+  - first:
+      213: 8054992724003163531
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_118
+  - first:
+      213: -4734041206748793191
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_119
+  - first:
+      213: -8898541544956255507
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_120
+  - first:
+      213: 7923959326135833916
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_121
+  - first:
+      213: 3057079395350481470
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_122
+  - first:
+      213: -2334364473228264766
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_123
+  - first:
+      213: 4693443085421929746
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_124
+  - first:
+      213: 4700096974782648269
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_125
+  - first:
+      213: 3789908484479733483
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_126
+  - first:
+      213: 2489022769657524677
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_127
+  - first:
+      213: -3548027143748246317
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_128
+  - first:
+      213: 692516430920828425
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_129
+  - first:
+      213: -8442503414034944852
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_130
+  - first:
+      213: -3079354112668155070
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_131
+  - first:
+      213: -5821492639152873371
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_132
+  - first:
+      213: 1596908023190360415
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_133
+  - first:
+      213: -7033877249603731378
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_134
+  - first:
+      213: 4777903065340577410
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_135
+  - first:
+      213: 4217172020406187255
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_136
+  - first:
+      213: -3719554680857574431
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_137
+  - first:
+      213: -7927915008291234380
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_138
+  - first:
+      213: 450419300766453783
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_139
+  - first:
+      213: -3775578430026742206
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_140
+  - first:
+      213: 7453610227788891958
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_141
+  - first:
+      213: 3955723942616683000
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_142
+  - first:
+      213: -5578042638587111063
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_143
+  - first:
+      213: -3185675650318741685
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_144
+  - first:
+      213: 3789437649177641183
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_145
+  - first:
+      213: 7169392570746389558
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_146
+  - first:
+      213: -7288425121711453063
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_147
+  - first:
+      213: 2168949516981612761
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_148
+  - first:
+      213: -4534583539239535450
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_149
+  - first:
+      213: 2317447180213851857
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_150
+  - first:
+      213: -7085379474979085155
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_151
+  - first:
+      213: -1611521579234930301
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_152
+  - first:
+      213: 3739568684648498155
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_153
+  - first:
+      213: 2612936882647495817
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_154
+  - first:
+      213: -2870016588806333119
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_155
+  - first:
+      213: 3850046994185583939
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_156
+  - first:
+      213: -11475771911164351
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_157
+  - first:
+      213: -1386013471351777974
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_158
+  - first:
+      213: -830580025542085563
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_159
+  - first:
+      213: 6319704558799254857
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_160
+  - first:
+      213: -6141043197358284057
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_161
+  - first:
+      213: -2523122771621808759
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_162
+  - first:
+      213: 4524334934540313825
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_163
+  - first:
+      213: -920880922144049892
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_164
+  - first:
+      213: 7362568059783492124
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_165
+  - first:
+      213: -6675257425832927900
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_166
+  - first:
+      213: 8378593882762767457
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_167
+  - first:
+      213: 5983666823440434132
+    second: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_168
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2668
+        width: 202
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c621cddc6365e0800000000000000
+      internalID: -1917569316645582887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2667
+        width: 168
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9fc10d6a0889d0800000000000000
+      internalID: -2771954107348443169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2667
+        width: 169
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2519a3ca369757300800000000000000
+      internalID: 249238823387173202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2667
+        width: 167
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900c4baea2165ea00800000000000000
+      internalID: 785140547000254473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2667
+        width: 243
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f980e926ea9720800000000000000
+      internalID: 2853846381427816920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2667
+        width: 238
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042ce7a9570f44a90800000000000000
+      internalID: -7330469905558486464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2668
+        width: 255
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ea6d5f25af81ea0800000000000000
+      internalID: -5901692077450285549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_7
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2667
+        width: 223
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f456994b305b680800000000000000
+      internalID: -8740075427640029362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_8
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2667
+        width: 221
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ac58284a83ea90800000000000000
+      internalID: -7285827729635891430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_9
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 2953
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b31ce7e1bc8e910800000000000000
+      internalID: 1866965377381120772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_10
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2950
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b74771d6c3371e0800000000000000
+      internalID: -2201349353611429112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_11
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2823
+        width: 141
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d6af7c6d26bec00800000000000000
+      internalID: 930946422599740704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_12
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2740
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e7d6cff26ab4c0800000000000000
+      internalID: -4270992445915273810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_13
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2736
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6126d0b65312ece0800000000000000
+      internalID: -1377517272967011990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_14
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 2701
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68885006f32e15b60800000000000000
+      internalID: 7733210796993644678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_15
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2718
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019ba6009138ab0f0800000000000000
+      internalID: -1100423015534249712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_16
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2715
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfbd11ce5b8a8310800000000000000
+      internalID: 1408091072589840317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_17
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2686
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8479307c430840800000000000000
+      internalID: 5189075240544931183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_18
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2682
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73bea072d821c410800000000000000
+      internalID: 1495521435562455934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_19
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 2547
+        width: 147
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035fe14e6525571b0800000000000000
+      internalID: -5659526823573261008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_20
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 2660
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282da2b3cf33cdd70800000000000000
+      internalID: 9069180908034773634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_21
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 2658
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1280383972e8ccb0800000000000000
+      internalID: -4843372388975345126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_22
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2623
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d843f47bf6e330800000000000000
+      internalID: 3739953020294190408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2328
+        width: 169
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e9dd327425456c0800000000000000
+      internalID: -4155606090658242945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_24
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2628
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff5219647c41650800000000000000
+      internalID: 6202801692692840336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_25
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 2625
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f95690a26fbd09a0800000000000000
+      internalID: -6265141076280583688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2298
+        width: 168
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4300a327d758d6350800000000000000
+      internalID: 6011607851443290164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2294
+        width: 219
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b7020169f78e00800000000000000
+      internalID: 1047079633428133914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2298
+        width: 172
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f832a78b11dd890800000000000000
+      internalID: -7431764326070644837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_29
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2298
+        width: 168
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b663a0f74cfdcc0800000000000000
+      internalID: -3684009920254547182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_30
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2298
+        width: 168
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03a702000234ab40800000000000000
+      internalID: 5450536424640586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_31
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2298
+        width: 174
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f920c65673a3380800000000000000
+      internalID: -8990812797348438178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_32
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2298
+        width: 279
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ff08964708a5170800000000000000
+      internalID: 8167982111664439141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_33
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2582
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf316ea7b576a20800000000000000
+      internalID: 3055511455598377960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_34
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2584
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f4e281b5bf66d0800000000000000
+      internalID: -2994975453168209423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_35
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2546
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823aff99f5c3ccf20800000000000000
+      internalID: 3444194196334813992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_36
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2547
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9b365ff5f18930800000000000000
+      internalID: 4143863609169780291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_37
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2447
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3009cd89b236e0800000000000000
+      internalID: -1859219677536829729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_38
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 2426
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dbffbf39b8ff300800000000000000
+      internalID: 288102368879295836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_39
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2447
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a9b25b26e4fe480800000000000000
+      internalID: -8867782955415922109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_40
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2393
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399997aada1189340800000000000000
+      internalID: 4870662434588301715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_41
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2363
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a935ab9049791e930800000000000000
+      internalID: 4170781391995949978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_42
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2363
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e472bb88a5109e0800000000000000
+      internalID: -1656943644593664471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_43
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2386
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a3a33dff3bc460800000000000000
+      internalID: 7262969180790695160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_44
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1944
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa2e738a12ec5d80800000000000000
+      internalID: -8260479013001221463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_45
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1944
+        width: 169
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9b1183c81b0ede0800000000000000
+      internalID: -1305848676143220307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_46
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1944
+        width: 167
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33592c7a95d26920800000000000000
+      internalID: 2982180762757452603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_47
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1944
+        width: 243
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ca463546af1160800000000000000
+      internalID: 6998495162150864268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_48
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1944
+        width: 238
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8fc1fdaf89e9d0800000000000000
+      internalID: -2744504520656580990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_49
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1946
+        width: 255
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4e5e78a407eb0a0800000000000000
+      internalID: -6863925316656175901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_50
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1944
+        width: 223
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157649ed136085d90800000000000000
+      internalID: -7108925200546896047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_51
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1944
+        width: 221
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2496c5b4e60860800000000000000
+      internalID: 7495930099176581739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_52
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2018
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582baea334c5a3340800000000000000
+      internalID: 4844285793011413637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_53
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2014
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d298459dced4920800000000000000
+      internalID: 2976295346932100368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_54
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1979
+        width: 146
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cde25583973900800000000000000
+      internalID: 664161670891685202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_55
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1997
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a2554080171660800000000000000
+      internalID: 7356366659437898085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_56
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1994
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c803182067e561b10800000000000000
+      internalID: 1951851349452861580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_57
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1965
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e24de127ed6f74a0800000000000000
+      internalID: -6593430489973046554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_58
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1961
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ccd5bc1c764210800000000000000
+      internalID: 1316876403804521579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_59
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1824
+        width: 147
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcd395c51a2118f0800000000000000
+      internalID: -571629404701860612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_60
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1938
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b27c55cbdf6d00800000000000000
+      internalID: 968234085614007947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_61
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1935
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c9f2b17ebc7b60800000000000000
+      internalID: 7745274854713705725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_62
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1901
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f2fdd259a6bd5c0800000000000000
+      internalID: -4189637839385841919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_63
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1605
+        width: 169
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b88b5e93a0ba30800000000000000
+      internalID: 4229059950636741641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_64
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1907
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a878dbb313e18380800000000000000
+      internalID: -8970639308849907543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_65
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 1904
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e01e3917f2b64270800000000000000
+      internalID: 8234465743043694816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1575
+        width: 168
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc3e98ee30609a0800000000000000
+      internalID: -6267317508388959122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1572
+        width: 219
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9597bfebc09be990800000000000000
+      internalID: -7355626360805026406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_68
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1577
+        width: 172
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10841b93cdc055490800000000000000
+      internalID: -7758280643075553279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_69
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1575
+        width: 168
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66575bfc0351fa860800000000000000
+      internalID: 7543271200256259430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_70
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1575
+        width: 169
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b90427a79dc17f20800000000000000
+      internalID: 3418739643378829753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_71
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1575
+        width: 174
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6435de9abe194aa0800000000000000
+      internalID: -6176371627084401557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_72
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1575
+        width: 279
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef9c21be19525e0800000000000000
+      internalID: -1934980026067190251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_73
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1860
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1151c1123896a9e0800000000000000
+      internalID: -1610432475924704994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_74
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1863
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b798ce000e8eed0800000000000000
+      internalID: -2384409708119622753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_75
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1824
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b548db792dc28a550800000000000000
+      internalID: 6172232572311798875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_76
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1826
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af32e5e44ae37f0800000000000000
+      internalID: -630886241291470321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_77
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1725
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78545aa241e83f520800000000000000
+      internalID: 2734685616009987463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_78
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1704
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a7a412f4583b40800000000000000
+      internalID: 5420175550245742571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_79
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1725
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c122b37218f44d40800000000000000
+      internalID: 5567847797470929349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_80
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1671
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76094759b4dcd5330800000000000000
+      internalID: 3701340193282101351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_81
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1641
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb545080c957cd150800000000000000
+      internalID: 5898718924958418366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_82
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 1641
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4783e94fe9549c0800000000000000
+      internalID: -3943571125229292346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_83
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1664
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0481bc7f2791ff0800000000000000
+      internalID: -64894311030308656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_84
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1268
+        width: 180
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6adfab3f5cfed50800000000000000
+      internalID: 6768846415566055157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_85
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1268
+        width: 180
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827dcdb6aa00275b0800000000000000
+      internalID: -5372230673545504984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_86
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1268
+        width: 180
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7ac4635072f930800000000000000
+      internalID: 4175523308001459866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_87
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1271
+        width: 185
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9f7030007da3e0800000000000000
+      internalID: -2040851910012986648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_88
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1271
+        width: 187
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacebfd93a3d0830800000000000000
+      internalID: 4038948461062572778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_89
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1271
+        width: 185
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1cc1c2eebaffff0800000000000000
+      internalID: -92435546062380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_90
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1269
+        width: 179
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed161c9c80719d90800000000000000
+      internalID: -7092764188915393055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_91
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1271
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34cfcfe1f3cc180800000000000000
+      internalID: -9093824145241914374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_92
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1364
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64323dc9113dd84f0800000000000000
+      internalID: -824771084139945146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_93
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1359
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5462a7352fdf980800000000000000
+      internalID: -8503374081060092419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_94
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1298
+        width: 137
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2874ee0a6425a0e0800000000000000
+      internalID: -2259359600121448403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_95
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1337
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b4025eb67f5d0c0800000000000000
+      internalID: -4551459805610357973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_96
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1331
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182321ca0f27e370800000000000000
+      internalID: 8351695757218359314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_97
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1295
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21298337ccea5790800000000000000
+      internalID: -7540454285771202261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_98
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1290
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f514e610991cc66c0800000000000000
+      internalID: -4148728293816909473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_99
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1148
+        width: 132
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29ad982faf04d570800000000000000
+      internalID: 8490428442475342126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_100
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6791f87eff0158200800000000000000
+      internalID: 181570051265993078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_101
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1260
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42499062a3c62cfb0800000000000000
+      internalID: -4629018469981383644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_102
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 947
+        width: 192
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf036ce1816930110800000000000000
+      internalID: 1225988553914593532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_103
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1229
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a47e4a79d9ddf60800000000000000
+      internalID: 8060772182695299631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_104
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1223
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c24a90a5991a20800000000000000
+      internalID: 3033620341026113249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_105
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1211
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a935126f50377340800000000000000
+      internalID: 4861407508995324323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_106
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1211
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36871feb340311810800000000000000
+      internalID: 1734220399038789731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_107
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1152
+        width: 135
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eaed34ef3afd210800000000000000
+      internalID: 1359985924944866867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_108
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1181
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42056f381b5a8790800000000000000
+      internalID: -7527103667495435700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_109
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1184
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ade160047a2c72a0800000000000000
+      internalID: -6738464264742113882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 899
+        width: 180
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af4eabb8ea126de0800000000000000
+      internalID: -1341480152119488601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_111
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 899
+        width: 189
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622726da292a0b450800000000000000
+      internalID: 6102556245944857126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_112
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 900
+        width: 189
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99afb1e0cfedc3a0800000000000000
+      internalID: -6643390263601419874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_113
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 899
+        width: 177
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153209b0fe87b7580800000000000000
+      internalID: -8828329676443212975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_114
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 899
+        width: 177
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d824db4df34c17e0800000000000000
+      internalID: -1793483796422317863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_115
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 899
+        width: 175
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d404c48781869d150800000000000000
+      internalID: 5897859641325142093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_116
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 899
+        width: 233
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370e9a14c76bcb540800000000000000
+      internalID: 5025091929032482931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_117
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1134
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93075d4abda0c9300800000000000000
+      internalID: 260094816960213049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_118
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1134
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d809e843519cf60800000000000000
+      internalID: 8054992724003163531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_119
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1049
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963dafba9e4d4eb0800000000000000
+      internalID: -4734041206748793191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_120
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1022
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a3d18c97028480800000000000000
+      internalID: -8898541544956255507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_121
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1049
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3558f0360f87fd60800000000000000
+      internalID: 7923959326135833916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_122
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 999
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0802538dec6a20800000000000000
+      internalID: 3057079395350481470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_123
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 965
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caffec21ebaa9fd0800000000000000
+      internalID: -2334364473228264766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_124
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 965
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21566188e95722140800000000000000
+      internalID: 4693443085421929746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_125
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 992
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfcecfdb491a3140800000000000000
+      internalID: 4700096974782648269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 547
+        width: 180
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee47a4dfa5789430800000000000000
+      internalID: 3789908484479733483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_127
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 547
+        width: 180
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1bb478509ca8220800000000000000
+      internalID: 2489022769657524677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_128
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 547
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4217b6c10e2cec0800000000000000
+      internalID: -3548027143748246317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_129
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 548
+        width: 185
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906482a56005c9900800000000000000
+      internalID: 692516430920828425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_130
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 548
+        width: 187
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacac6f00e336da80800000000000000
+      internalID: -8442503414034944852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_131
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 550
+        width: 185
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c6c8efbfe345d0800000000000000
+      internalID: -3079354112668155070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_132
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 548
+        width: 179
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560edbcc947e53fa0800000000000000
+      internalID: -5821492639152873371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_133
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 548
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f519b35e26b592610800000000000000
+      internalID: 1596908023190360415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_134
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 643
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400ba798e5a26e90800000000000000
+      internalID: -7033877249603731378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_135
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 638
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28600e406858e4240800000000000000
+      internalID: 4777903065340577410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_136
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 576
+        width: 137
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f609eb97668a30800000000000000
+      internalID: 4217172020406187255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_137
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 616
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c7dc89bc716cc0800000000000000
+      internalID: -3719554680857574431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_138
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 610
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1059cd436af190800000000000000
+      internalID: -7927915008291234380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_139
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 574
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7101a26b7f5304600800000000000000
+      internalID: 450419300766453783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_140
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 568
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24601a8fb637a9bc0800000000000000
+      internalID: -3775578430026742206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_141
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 542
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6374391e20b807760800000000000000
+      internalID: 7453610227788891958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_142
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 538
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1dc2da7fd85e630800000000000000
+      internalID: 3955723942616683000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_143
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 425
+        width: 132
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969580126cfc692b0800000000000000
+      internalID: -5578042638587111063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_144
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 226
+        width: 192
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc32ddfd43ac3d0800000000000000
+      internalID: -3185675650318741685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_145
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 506
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd089b1f679c69430800000000000000
+      internalID: 3789437649177641183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_146
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 502
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634c9aade8cce7360800000000000000
+      internalID: 7169392570746389558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_147
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 488
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0b50b7ff4ada90800000000000000
+      internalID: -7288425121711453063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_148
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 488
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b1771818a91e10800000000000000
+      internalID: 2168949516981612761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_149
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 431
+        width: 135
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3b4bdb4ce111c0800000000000000
+      internalID: -4534583539239535450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_150
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 459
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6906a9ee9392020800000000000000
+      internalID: 2317447180213851857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_151
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 462
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94270f48ecabad90800000000000000
+      internalID: -7085379474979085155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_152
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 178
+        width: 180
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38153d179a9b2a9e0800000000000000
+      internalID: -1611521579234930301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_153
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 178
+        width: 189
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be306a5d7ed95e330800000000000000
+      internalID: 3739568684648498155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_154
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 178
+        width: 189
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98478b63044034420800000000000000
+      internalID: 2612936882647495817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_155
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 178
+        width: 177
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d58b45e17ab28d0800000000000000
+      internalID: -2870016588806333119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_156
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 178
+        width: 177
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dfdf0c75d1e6530800000000000000
+      internalID: 3850046994185583939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_157
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 178
+        width: 175
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e26b3a8da37dff0800000000000000
+      internalID: -11475771911164351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_158
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 178
+        width: 233
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45db2a5714e3cce0800000000000000
+      internalID: -1386013471351777974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_159
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 412
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544770c0edf2974f0800000000000000
+      internalID: -830580025542085563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_160
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 413
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94575a020d914b750800000000000000
+      internalID: 6319704558799254857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_161
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 326
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26127afb1a6caa0800000000000000
+      internalID: -6141043197358284057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_162
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 300
+        width: 85
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98578c015311cfcd0800000000000000
+      internalID: -2523122771621808759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_163
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 326
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e46a2ae6aaa9ce30800000000000000
+      internalID: 4524334934540313825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_164
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 278
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c157b2b2eaf5833f0800000000000000
+      internalID: -920880922144049892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_165
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 242
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12380e44a81d2660800000000000000
+      internalID: 7362568059783492124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_166
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 242
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d90fcfcb8bc53a0800000000000000
+      internalID: -6675257425832927900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_167
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 271
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce553aebeb64470800000000000000
+      internalID: 8378593882762767457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Gloam Valley Prisoners Paper Mario-Style_168
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1253
+        width: 662
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d30579e5414a0350800000000000000
+      internalID: 5983666823440434132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

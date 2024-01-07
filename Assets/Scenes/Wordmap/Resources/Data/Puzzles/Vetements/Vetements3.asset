@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Vetements3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 210
+  Columns: 8
+  Rows: 8
+  Board:
+  - Size: 8
+    Row:
+    - C
+    - G
+    - H
+    - P
+    - Y
+    - I
+    - S
+    - V
+  - Size: 8
+    Row:
+    - R
+    - F
+    - H
+    - A
+    - J
+    - N
+    - W
+    - K
+  - Size: 8
+    Row:
+    - A
+    - Z
+    - G
+    - N
+    - K
+    - W
+    - Y
+    - O
+  - Size: 8
+    Row:
+    - V
+    - E
+    - S
+    - T
+    - E
+    - L
+    - U
+    - U
+  - Size: 8
+    Row:
+    - A
+    - C
+    - H
+    - A
+    - P
+    - E
+    - A
+    - U
+  - Size: 8
+    Row:
+    - T
+    - Y
+    - N
+    - L
+    - F
+    - L
+    - Y
+    - G
+  - Size: 8
+    Row:
+    - T
+    - E
+    - B
+    - O
+    - R
+    - F
+    - Q
+    - C
+  - Size: 8
+    Row:
+    - E
+    - O
+    - J
+    - N
+    - K
+    - Q
+    - F
+    - Z
+  SearchWords:
+  - Found: 0
+    Word: PANTALON
+  - Found: 0
+    Word: CHAPEAU
+  - Found: 0
+    Word: ROBE
+  - Found: 0
+    Word: CRAVATTE
+  - Found: 0
+    Word: VESTE

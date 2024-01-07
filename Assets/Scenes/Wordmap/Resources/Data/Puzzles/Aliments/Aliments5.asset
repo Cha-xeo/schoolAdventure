@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Aliments5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 285
+  Columns: 9
+  Rows: 9
+  Board:
+  - Size: 9
+    Row:
+    - G
+    - A
+    - T
+    - E
+    - A
+    - U
+    - A
+    - S
+    - L
+  - Size: 9
+    Row:
+    - D
+    - W
+    - R
+    - P
+    - R
+    - T
+    - E
+    - V
+    - B
+  - Size: 9
+    Row:
+    - L
+    - H
+    - P
+    - B
+    - Z
+    - L
+    - D
+    - O
+    - E
+  - Size: 9
+    Row:
+    - A
+    - E
+    - N
+    - K
+    - A
+    - X
+    - N
+    - V
+    - U
+  - Size: 9
+    Row:
+    - E
+    - K
+    - G
+    - E
+    - G
+    - B
+    - S
+    - V
+    - R
+  - Size: 9
+    Row:
+    - A
+    - G
+    - R
+    - U
+    - O
+    - G
+    - K
+    - B
+    - R
+  - Size: 9
+    Row:
+    - J
+    - E
+    - V
+    - N
+    - M
+    - F
+    - F
+    - W
+    - E
+  - Size: 9
+    Row:
+    - C
+    - E
+    - Z
+    - X
+    - R
+    - E
+    - J
+    - V
+    - M
+  - Size: 9
+    Row:
+    - E
+    - M
+    - N
+    - T
+    - R
+    - U
+    - O
+    - A
+    - Y
+  SearchWords:
+  - Found: 0
+    Word: BEURRE
+  - Found: 0
+    Word: BONBON
+  - Found: 0
+    Word: GATEAU
+  - Found: 0
+    Word: LEGUME
+  - Found: 0
+    Word: YAOURT
+  - Found: 0
+    Word: CEREALES

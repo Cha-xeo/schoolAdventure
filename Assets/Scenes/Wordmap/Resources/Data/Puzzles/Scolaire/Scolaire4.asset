@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Scolaire4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 240
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - C
+    - I
+    - S
+    - E
+    - A
+    - U
+    - X
+    - C
+    - Q
+    - P
+  - Size: 10
+    Row:
+    - N
+    - A
+    - G
+    - P
+    - E
+    - E
+    - W
+    - R
+    - U
+    - O
+  - Size: 10
+    Row:
+    - K
+    - G
+    - R
+    - E
+    - G
+    - L
+    - E
+    - J
+    - J
+    - C
+  - Size: 10
+    Row:
+    - C
+    - N
+    - C
+    - T
+    - R
+    - V
+    - Q
+    - W
+    - C
+    - H
+  - Size: 10
+    Row:
+    - D
+    - C
+    - R
+    - A
+    - A
+    - V
+    - M
+    - I
+    - N
+    - E
+  - Size: 10
+    Row:
+    - T
+    - U
+    - S
+    - B
+    - V
+    - B
+    - X
+    - X
+    - V
+    - T
+  - Size: 10
+    Row:
+    - D
+    - M
+    - Q
+    - L
+    - K
+    - O
+    - L
+    - Q
+    - A
+    - T
+  - Size: 10
+    Row:
+    - S
+    - M
+    - P
+    - E
+    - K
+    - Y
+    - S
+    - E
+    - C
+    - E
+  - Size: 10
+    Row:
+    - F
+    - C
+    - V
+    - A
+    - P
+    - P
+    - T
+    - U
+    - Y
+    - Z
+  - Size: 10
+    Row:
+    - A
+    - E
+    - Q
+    - U
+    - E
+    - R
+    - R
+    - E
+    - L
+    - R
+  SearchWords:
+  - Found: 0
+    Word: CARTABLE
+  - Found: 0
+    Word: CISEAUX
+  - Found: 0
+    Word: REGLE
+  - Found: 0
+    Word: EQUERRE
+  - Found: 0
+    Word: POCHETTE
+  - Found: 0
+    Word: TABLEAU

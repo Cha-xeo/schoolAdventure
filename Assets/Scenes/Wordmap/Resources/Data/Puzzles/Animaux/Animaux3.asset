@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Animaux3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 210
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - R
+    - F
+    - P
+    - Z
+    - G
+    - A
+    - L
+    - R
+    - D
+  - Size: 10
+    Row:
+    - S
+    - A
+    - E
+    - I
+    - K
+    - N
+    - Z
+    - M
+    - M
+    - A
+  - Size: 10
+    Row:
+    - R
+    - Z
+    - L
+    - G
+    - H
+    - M
+    - A
+    - Q
+    - W
+    - U
+  - Size: 10
+    Row:
+    - V
+    - A
+    - R
+    - E
+    - N
+    - E
+    - Y
+    - H
+    - O
+    - P
+  - Size: 10
+    Row:
+    - N
+    - R
+    - K
+    - O
+    - I
+    - G
+    - U
+    - L
+    - N
+    - H
+  - Size: 10
+    Row:
+    - I
+    - M
+    - F
+    - N
+    - T
+    - N
+    - M
+    - M
+    - C
+    - I
+  - Size: 10
+    Row:
+    - W
+    - B
+    - H
+    - V
+    - O
+    - N
+    - E
+    - Q
+    - J
+    - N
+  - Size: 10
+    Row:
+    - P
+    - U
+    - H
+    - K
+    - U
+    - R
+    - K
+    - H
+    - W
+    - A
+  - Size: 10
+    Row:
+    - C
+    - Q
+    - K
+    - K
+    - X
+    - X
+    - D
+    - I
+    - O
+    - U
+  - Size: 10
+    Row:
+    - W
+    - T
+    - S
+    - O
+    - N
+    - G
+    - X
+    - M
+    - T
+    - I
+  SearchWords:
+  - Found: 0
+    Word: BALEINE
+  - Found: 0
+    Word: HYENE
+  - Found: 0
+    Word: PIGEON
+  - Found: 0
+    Word: DAUPHIN

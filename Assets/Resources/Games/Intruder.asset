@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9636a35ec0116ef48b3e3f6e45afc0c6, type: 3}
+  m_Name: Intruder
+  m_EditorClassIdentifier: 
+  ID: 6
+  _name: Intrus
+  _description: Intruder
+  _sceneName: IntruderMenu
+  _matiere: "fran\xE7ais"
+  _icon: {fileID: 21300000, guid: ff033eb4a958f2d4e93402f8a5c9708c, type: 3}
+  includeInBuild: 1
+  helpPrefab: {fileID: 0}

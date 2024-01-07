@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9636a35ec0116ef48b3e3f6e45afc0c6, type: 3}
+  m_Name: SymphoQuiz
+  m_EditorClassIdentifier: 
+  ID: 20
+  _name: SymphoQuiz
+  _description: 
+  _sceneName: SymphoQuizMenu
+  _matiere: Music
+  _icon: {fileID: 21300000, guid: 8456d9a0119c07d429c5ad7faf71a11a, type: 3}
+  includeInBuild: 1
+  helpPrefab: {fileID: 0}

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Animaux5
+  m_EditorClassIdentifier: 
+  timeInSeconds: 270
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - C
+    - U
+    - R
+    - B
+    - T
+    - Z
+    - L
+    - R
+    - D
+  - Size: 10
+    Row:
+    - E
+    - I
+    - A
+    - H
+    - S
+    - V
+    - B
+    - L
+    - H
+    - R
+  - Size: 10
+    Row:
+    - L
+    - A
+    - P
+    - I
+    - N
+    - Z
+    - N
+    - M
+    - Y
+    - O
+  - Size: 10
+    Row:
+    - I
+    - I
+    - W
+    - Y
+    - N
+    - O
+    - T
+    - U
+    - O
+    - M
+  - Size: 10
+    Row:
+    - D
+    - M
+    - O
+    - C
+    - K
+    - N
+    - N
+    - K
+    - V
+    - A
+  - Size: 10
+    Row:
+    - O
+    - H
+    - Q
+    - N
+    - X
+    - J
+    - E
+    - O
+    - I
+    - D
+  - Size: 10
+    Row:
+    - C
+    - D
+    - W
+    - Q
+    - V
+    - M
+    - P
+    - S
+    - T
+    - A
+  - Size: 10
+    Row:
+    - O
+    - G
+    - H
+    - A
+    - F
+    - Y
+    - R
+    - W
+    - Y
+    - I
+  - Size: 10
+    Row:
+    - R
+    - E
+    - H
+    - V
+    - A
+    - Y
+    - E
+    - B
+    - E
+    - R
+  - Size: 10
+    Row:
+    - C
+    - W
+    - I
+    - F
+    - F
+    - G
+    - S
+    - E
+    - L
+    - E
+  SearchWords:
+  - Found: 0
+    Word: LAPIN
+  - Found: 0
+    Word: LION
+  - Found: 0
+    Word: SERPENT
+  - Found: 0
+    Word: MOUTON
+  - Found: 0
+    Word: DROMADAIRE
+  - Found: 0
+    Word: CROCODILE

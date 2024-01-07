@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Aliments3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 210
+  Columns: 7
+  Rows: 7
+  Board:
+  - Size: 7
+    Row:
+    - F
+    - P
+    - Y
+    - C
+    - U
+    - H
+    - T
+  - Size: 7
+    Row:
+    - R
+    - R
+    - S
+    - R
+    - Z
+    - N
+    - Z
+  - Size: 7
+    Row:
+    - O
+    - B
+    - A
+    - Z
+    - Z
+    - I
+    - P
+  - Size: 7
+    Row:
+    - M
+    - S
+    - U
+    - L
+    - I
+    - H
+    - O
+  - Size: 7
+    Row:
+    - A
+    - O
+    - C
+    - Q
+    - U
+    - N
+    - G
+  - Size: 7
+    Row:
+    - G
+    - L
+    - E
+    - F
+    - G
+    - T
+    - G
+  - Size: 7
+    Row:
+    - E
+    - U
+    - T
+    - A
+    - R
+    - T
+    - E
+  SearchWords:
+  - Found: 0
+    Word: PIZZA
+  - Found: 0
+    Word: FROMAGE
+  - Found: 0
+    Word: SAUCE
+  - Found: 0
+    Word: TARTE

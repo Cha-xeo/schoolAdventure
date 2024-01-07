@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c65526c70c3a4d4181e3a334a2e0218, type: 3}
+  m_Name: WordmapGameLevelData
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: Animaux
+    boardData:
+    - {fileID: 11400000, guid: 2bd58cf54ed3dfc4dac62bb9931854d2, type: 2}
+    - {fileID: 11400000, guid: c7dd8b2f5288be14a86d34de204ce298, type: 2}
+    - {fileID: 11400000, guid: dc1157b0823f48949930bcff5c466427, type: 2}
+    - {fileID: 11400000, guid: 48151189b0c9c8c4bbbd30ebf5e1d658, type: 2}
+    - {fileID: 11400000, guid: aa902401243abc8408804bcda2bccc19, type: 2}
+  - categoryName: Pays
+    boardData:
+    - {fileID: 11400000, guid: d497e3d30e6ea0341b4c67e20b847850, type: 2}
+    - {fileID: 11400000, guid: 4f185d561e90f7d44ac9f2940787ee02, type: 2}
+    - {fileID: 11400000, guid: fa22b38a021b2a5489ae07a323864610, type: 2}
+    - {fileID: 11400000, guid: 8a75fe18c454edb46b1f9e94ca24fb18, type: 2}
+  - categoryName: Sports
+    boardData:
+    - {fileID: 11400000, guid: 925fb2fa01943a240a942fcb9b741398, type: 2}
+    - {fileID: 11400000, guid: 9abd7d02e9f8d204784ab68c8fa096e0, type: 2}
+    - {fileID: 11400000, guid: 186d6c73964cc7840aa3db13865792aa, type: 2}
+    - {fileID: 11400000, guid: 19d5c012bf05e6c498b6c5ef53b3f11d, type: 2}
+  - categoryName: Aliments
+    boardData:
+    - {fileID: 11400000, guid: 82577fbbe8a3323458cead3fd6f9e95c, type: 2}
+    - {fileID: 11400000, guid: 2f33554ed976bcb4e8c999b0f46afa9e, type: 2}
+    - {fileID: 11400000, guid: 54c214f8838f8ec4fbc2ffe3e2705c23, type: 2}
+    - {fileID: 11400000, guid: 8b9cda40568f6814cb29457d1ea87d44, type: 2}
+    - {fileID: 11400000, guid: 64f47a3c1630a1847a1b94560857d63b, type: 2}
+  - categoryName: Metiers
+    boardData:
+    - {fileID: 11400000, guid: 106ac623884876a43aa812bd2ad68638, type: 2}
+    - {fileID: 11400000, guid: b32d83e67932440439dfdadd9c17a8da, type: 2}
+    - {fileID: 11400000, guid: 1d615d7b0df493643ba1cfb57e1a431f, type: 2}
+  - categoryName: Prenoms
+    boardData:
+    - {fileID: 11400000, guid: c34c281b935a22645a2c4d6263a19394, type: 2}
+    - {fileID: 11400000, guid: e541707693791b949ad57aab49602f10, type: 2}
+    - {fileID: 11400000, guid: a73975f2b5b47ca4097c0ad2ab0b1a55, type: 2}
+    - {fileID: 11400000, guid: 9bc4498d65f150945a86c7b70f8a5c7c, type: 2}
+  - categoryName: Emotions
+    boardData:
+    - {fileID: 11400000, guid: db9597e3ad5a8014c9271fcf3dd1de3d, type: 2}
+    - {fileID: 11400000, guid: 20afacc26ad60cc40809903b17e7bc19, type: 2}
+    - {fileID: 11400000, guid: 8b15602047c34b7459652beef2d80497, type: 2}
+    - {fileID: 11400000, guid: 23522c816edb3784b8873e45456cb033, type: 2}
+  - categoryName: Vetements
+    boardData:
+    - {fileID: 11400000, guid: 4324feb00b621ee4db23be49c8ef0603, type: 2}
+    - {fileID: 11400000, guid: 778836a8c20c51e45901ddc4c3e7cbe8, type: 2}
+    - {fileID: 11400000, guid: 23ace2d9c25f72b4aa539368b322ed93, type: 2}
+  - categoryName: Scolaire
+    boardData:
+    - {fileID: 11400000, guid: dd05ae34ad6edf841bb7dd736c8e6b96, type: 2}
+    - {fileID: 11400000, guid: 06e32040207e622488915bba81ec7fb1, type: 2}
+    - {fileID: 11400000, guid: ec2321f3ec97ea245be87b276f6ba7d8, type: 2}
+    - {fileID: 11400000, guid: 18e24cd9a4b3bec4ca8c7cb1fa2c2b45, type: 2}
+  - categoryName: Villes
+    boardData:
+    - {fileID: 11400000, guid: 8745915b422485a4588ddb12c5598b83, type: 2}
+    - {fileID: 11400000, guid: 66c0035a801d3584aa2e8606032b09c2, type: 2}
+    - {fileID: 11400000, guid: 9a60fa1c94e4353488bb1327474ae5b1, type: 2}
+    - {fileID: 11400000, guid: ecea65de2bf42f44cbebc330a7c2275f, type: 2}
+    - {fileID: 11400000, guid: 0a897d8d7f4af114caaaf7e5f31277d3, type: 2}
+  - categoryName: Couleurs
+    boardData:
+    - {fileID: 11400000, guid: d478983ffab665f43bf813aeb142ca58, type: 2}
+    - {fileID: 11400000, guid: f264cddc32924e44d939173770bbbb4e, type: 2}
+    - {fileID: 11400000, guid: 6abbdb3b7c683aa459b486895853849a, type: 2}

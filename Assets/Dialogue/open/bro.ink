@@ -1,0 +1,5 @@
+-Oh
+-Un visiteur
+-Je suppose que mon frère vous envoies, je n'ai pas grand chose à vous dire pour le moment
+-Mais revenez quand vous le voudrez.
+    -> END

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca5f831b471e43e42863251eae3e71b4, type: 3}
+  m_Name: Vetements2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 150
+  Columns: 6
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - Q
+    - T
+    - W
+    - L
+    - B
+    - V
+  - Size: 6
+    Row:
+    - U
+    - K
+    - J
+    - A
+    - O
+    - F
+  - Size: 6
+    Row:
+    - D
+    - I
+    - G
+    - E
+    - N
+    - T
+  - Size: 6
+    Row:
+    - X
+    - U
+    - W
+    - C
+    - N
+    - H
+  - Size: 6
+    Row:
+    - E
+    - V
+    - K
+    - E
+    - E
+    - E
+  - Size: 6
+    Row:
+    - K
+    - G
+    - A
+    - N
+    - T
+    - S
+  SearchWords:
+  - Found: 0
+    Word: BONNET
+  - Found: 0
+    Word: GANTS
+  - Found: 0
+    Word: BAGUE
